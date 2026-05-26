@@ -1,7 +1,7 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Kali+Linux+User;Penetration+Tester;Security+Researcher" />
+
+---
 
 ### [identity.cfg]
 
@@ -13,6 +13,9 @@
   "status": "Learning everyday"
 }
 ```
+
+---
+
 &nbsp;
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white" />
 &nbsp;
@@ -35,6 +38,10 @@
 <img src="https://img.shields.io/badge/HashCat-1E1E1E?style=flat-square&logo=hashcat&logoColor=white" />
 &nbsp;
 <img src="https://img.shields.io/badge/Hydra-FF0000?style=flat-square&logo=linux&logoColor=white" />
+
+---
+
+
 ### GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=cxzqeoq&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=cxzqeoq&theme=highcontrast&hide_border=false)<br/>
