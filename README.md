@@ -43,6 +43,5 @@
 
 
 ### GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=cxzqeoq&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=cxzqeoq&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=cxzqeoq&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
