@@ -1,24 +1,6 @@
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=50&deleteSpeed=100&repeat=true&color=00FF00&width=435&lines=Bug+Bounty;OSINT;Web+Pentesting" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=50&deleteSpeed=100&repeat=true&color=00FF00&width=435&lines=HelloWorld" />
 
-
----
-
-### [identity.cfg]
-
-```json
-{
-  "role": "Junior Penetration Tester",
-  "focus": ["Offensive Security", "Ethical Hacking", "Web Application Pentesting"],
-  "interests": ["Bug Bounty", "OSINT", "Web Pentesting"],
-  "status": "Grinding every day",
-  "currently_doing": [
-    "Courses & certifications prep",
-    "Hands-on labs (TryHackMe/HTB)",
-    "Learning from real bug reports"
-  ]
-}⠀
-```
 
 ---
 
