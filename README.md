@@ -1,5 +1,5 @@
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=50&deleteSpeed=100&repeat=true&color=00FF00&width=435&lines=HelloWorld" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=50&deleteSpeed=100&repeat=true&color=00FF00&width=435&lines=dW5rbm93biBtZW1vcnk= | eXVuZyBsZWFu" />
 
 
 ---
